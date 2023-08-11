@@ -1,0 +1,32 @@
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\appsettings.json
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\API .net.exe
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\API .net.deps.json
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\API .net.runtimeconfig.json
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\API .net.dll
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\API .net.pdb
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diogo\Documents\projects\API .net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.AssemblyInfoInputs.cache
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.AssemblyInfo.cs
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets\msbuild.API .net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets\msbuild.build.API .net.props
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API .net.props
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API .net.props
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\scopedcss\bundle\API .net.styles.css
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.csproj.CopyComplete
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.dll
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\refint\API .net.dll
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.pdb
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\API .net.genruntimeconfig.cache
+C:\Users\diogo\Documents\projects\API .net\obj\Debug\net6.0\ref\API .net.dll
