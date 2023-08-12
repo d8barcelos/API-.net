@@ -4,6 +4,7 @@ namespace API_.net.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+//controller
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
